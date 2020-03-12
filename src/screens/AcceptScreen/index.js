@@ -1,0 +1,1 @@
+export { AcceptScreen } from './accept-screen';
